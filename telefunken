@@ -1,0 +1,84 @@
+  
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="pl">
+	<meta name="description" content="Strona internetowa Patryka - kolekcja">
+	<meta name="keywords" content="Patryk, klamoty, stary, komputer, retro, zmaslo">
+	<meta name="author" content="Patryk">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Patryk Website - Dell latitude D420</title>
+</head>
+
+<body>
+	<a id="top"></a>
+	<center>
+		<div class="img">
+		 <img src="bannerkolekcja.png" alt="Obrazek nie załadował ci się :)">
+		</div>
+		<hr size="1">
+			<a href="index.html">Strona główna</a> |
+			<a href="kolekcja.html">Moja kolekcja sprzętu</a> |
+			<a href="linki.html">Linki</a> |
+			<a href="o mnie.html">O mnie</a>
+			<br>
+		<hr size="1">
+    <br>
+    <br>
+    <span style="font-size: xx-large">Telefunken Enjoy TE1</span>
+    <span style="font-size: large">Telefon był użytkowany przez moją mamę przez 3 lata. Niestety kiedy ja go dostałem szybko się zepsuł (port ładowania którego naprawa się nie opłaca.</span><br>
+		<span style="font-size: large">Telefon w dniu premiery kosztował 277 zł.</span><br>
+		<span style="font-size: large">Specyfikację możesz zobaczyć poniżej</span><br>
+		<br>
+		<h3>Specyfikacja:</h3>
+    
+	<div class="tabela">
+		<div class="tw">
+			<div class="tk1">Premiera rynkowa</div>
+			<div class="tk2">2014</div>
+		</div>
+		<div class="tw">
+			<div class="tk1">Procesor</div>
+			<div class="tk2">MediaTek MT6572A<br>
+       Zegar procesora: 1.20 GHz</div>
+		</div>
+		<div class="tw">
+			<div class="tk1">Model</div>
+			<div class="tk2">Enjoy TE1</div>
+		</div>
+		<div class="tw">
+			<div class="tk1">Standard GSM</div>
+			<div class="tk2">850 900 1800 1900</div>
+		</div>
+		<div class="tw">
+			<div class="tk1">Standard UMTS</div>
+			<div class="tk2">900 2100</div>
+		</div>
+		<div class="tw">
+			<div class="tk1">Pamięć flash</div>
+			<div class="tk2">4 GB</div>
+		</div>
+		<div class="tw">
+			<div class="tk1">Typ<br>
+			i rozdzielczość<br>wyświetlacza</div>
+			<div class="tk2">IPS TFT<br>
+			480 x 800 px (4.00")</div>
+		</div>
+		<div class="tw">
+			<div class="tk1">Aparaty</div>
+			<div class="tk2">główny: 5 Mpx<br>
+			przedni: 2 Mpx</div>
+		</div>
+		<div class="tw">
+			<div class="tk1">Firmware</div>
+			<div class="tk2">Android 4.2 Jelly Bean</div>
+		</div>
+	</div>
+  
+	<div style="float: right; width: 30%;">
+	<div class="galeria">
+		<a target="_blank" href="enjoyTE1.jpg">
+		<img src="enjoyTE1.jpg" alt="Telefunken Enjoy TE1">
+		</a>
+		<div class="desc">Telefunken Enjoy TE1</div>

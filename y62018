@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="pl">
+	<meta name="description" content="Strona internetowa Patryka - kolekcja">
+	<meta name="keywords" content="Patryk, klamoty, stary, komputer, retro, zmaslo">
+	<meta name="author" content="Patryk">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Patryk Website - Huawei Y6 2018</title>
+</head>
+
+<body>
+	<a id="top"></a>
+	<center>
+		<div class="img">
+		 <img src="bannerkolekcja.png" alt="Obrazek nie załadował ci się :)">
+		</div>
+		<hr size="1">
+			<a href="index.html">Strona główna</a> |
+			<a href="kolekcja.html">Moja kolekcja sprzętu</a> |
+			<a href="linki.html">Linki</a> |
+			<a href="o mnie.html">O mnie</a>
+			<br>
+		<hr size="1">
+    <br>
+    <br>
+    <span style="font-size: xx-large">Huawei Y6 2018</span><br>
+    <span style="font-size: large">Pierwszy telefon który kupiłem jako nowy. Zawsze telefon dostawałem po jakimś członku rodziny.</span><br>
+		<span style="font-size: large">Telefon działa ale po dwóch latach okropnie się zacina oraz ma tylko 16GB pamięci flash</span><br>
+		<span style="font-size: large">Specyfikację możesz zobaczyć poniżej</span><br>
+		<br>
+		<h3>Specyfikacja:</h3>
+
+<div class="tabela">
+		<div class="tw">
+			<div class="tk1"><b>Premiera rynkowa</b></div>
+			<div class="tk2">2018</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Procesor</b></div>
+			<div class="tk2">Snapdragon 425<br>
+       Zegar procesora: 1.40 GHz</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Model</b></div>
+			<div class="tk2"></div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Standard GSM</b></div>
+			<div class="tk2">850 900 1800 1900</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Standard UMTS</b></div>
+			<div class="tk2">850 900 1700 1900 2100</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Pamięć flash</b></div>
+			<div class="tk2">16 GB</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Typ<br>
+				i rozdzielczość<br>wyświetlacza</b></div>
+			<div class="tk2">IPS TFT<br>
+			720 x 1440 px (5.70")</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Aparaty</b></div>
+			<div class="tk2">główny: 13 Mpx<br>
+			przedni: 5 Mpx</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Firmware</b></div>
+			<div class="tk2">Android 8.0 Oreo</div>
+		</div>
+	</div>
+		<br>
+		 <span style="font-size: xx-small">Tu kiedyś będzie zdjęcie</span>
+<br>
+		<center>
+            <object id="objekt">
+            <hr size="1">
+            <br>Ta strona była by ładna gdyby zrobiono ją w 2001 roku
+            <br>©2020
+            <br>Jakiekolwiek prawa ogolone
+            </object>
+        </center>    
+    </body>
+		<html>

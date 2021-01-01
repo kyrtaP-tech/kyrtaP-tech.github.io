@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="pl">
+	<meta name="description" content="Strona internetowa Patryka - kolekcja">
+	<meta name="keywords" content="Patryk, klamoty, stary, komputer, retro, zmaslo">
+	<meta name="author" content="Patryk">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Patryk Website - Lenovo Tab 2 A7-10</title>
+</head>
+
+<body>
+	<a id="top"></a>
+	<center>
+		<div class="img">
+		 <img src="bannerkolekcja.png" alt="Obrazek nie załadował ci się :)">
+		</div>
+		<hr size="1">
+			<a href="index.html">Strona główna</a> |
+			<a href="kolekcja.html">Moja kolekcja sprzętu</a> |
+			<a href="linki.html">Linki</a> |
+			<a href="o mnie.html">O mnie</a>
+			<br>
+		<hr size="1">
+    <br>
+    <br>
+    <span style="font-size: xx-large">Lenovo Tab A7-10</span><br>
+    <span style="font-size: large">Budżetowy tablet który do niedawna używała moja siostra.</span><br>
+		<span style="font-size: large">Tablet ma wylany ekran LCD.</span><br>
+		<span style="font-size: large">Specyfikację możesz zobaczyć poniżej</span><br>
+		<br>
+		<h3>Specyfikacja:</h3>
+
+<div class="tabela">
+		<div class="tw">
+			<div class="tk1"><b>Premiera rynkowa</b></div>
+			<div class="tk2">2015</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Procesor</b></div>
+			<div class="tk2">MediaTek MT8127<br>
+       Zegar procesora: 1.30 GHz</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Model</b></div>
+			<div class="tk2">Tab A7-10</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>RAM</b></div>
+			<div class="tk2">1 GB</div>
+      </div>
+		<div class="tw">
+			<div class="tk1"><b>Pamięć flash</b></div>
+			<div class="tk2">* GB</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Typ<br>
+				i rozdzielczość<br>wyświetlacza</b></div>
+			<div class="tk2">IPS TFT<br>
+		600 x 1024 px (7.00")</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Aparaty</b></div>
+			<div class="tk2">główny: brak.<br>
+			przedni: 0.3 Mpx</div>
+		</div>
+		<div class="tw">
+			<div class="tk1"><b>Firmware</b></div>
+			<div class="tk2">Android 4.4 KitKat</div>
+	</div>
+		<br>
+		 <span style="font-size: xx-small">Tu kiedyś będzie zdjęcie</span>
+<br>
+		<center>
+            <object id="objekt">
+            <hr size="1">
+            <br>Ta strona była by ładna gdyby zrobiono ją w 2001 roku
+            <br>©2020
+            <br>Jakiekolwiek prawa ogolone
+            </object>
+        </center>    
+    </body>
+		<html>

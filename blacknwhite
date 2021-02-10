@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="pl">
+	<meta name="description" content="Strona internetowa Patryka">
+	<meta name="keywords" content="Patryk, klamoty, stary, komputer, retro, zmaslo, media do wyboru, media bez wybor, strajk mediów">
+	<meta name="author" content="Patryk">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="stylesheet" href="css.css" type="text/css" media="screen">
+	<title>MEDIA BEZ lub DO WYBORU</title>
+</head>
+<body style="background-color: #000000	; color: #FFFFFF	">
+<center>
+<span style="font-size: xx-large">Tutaj jest twoja ulubiona strona internetowa!</span><br>
+<span style="font-size: large">Autor pozostaje neutralny co do aktualnej sytuacji medialnej.</span><br>
+<span style="font-size: large">Strona cały czas działa. Jeśli chcesz wpaść na stronę główną <a href="https://kyrtap-tech.github.io/index.html">Kliknij tutaj</a>
+</body>
+<html>

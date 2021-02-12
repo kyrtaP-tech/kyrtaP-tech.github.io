@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Language" content="pl">
+	<meta name="description" content="Strona internetowa Patryka">
+	<meta name="keywords" content="Patryk, klamoty, stary, komputer, retro, zmaslo, wyszkukiwarka">
+	<meta name="author" content="Patryk">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="shortcut icon" href="favicon.ico">
+	<link rel="stylesheet" href="css.css" type="text/css" media="screen">
+	<title>Wyszukiwarka</title>
+</head>
+<body>
+<script async src="https://cse.google.com/cse.js?cx=f89a4e192ad00a77f"></script>
+<div class="gcse-search"></div>
+</body>
+<html>
